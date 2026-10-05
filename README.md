@@ -122,7 +122,7 @@ Each test case designed in the Excel sheet follows a standard IEEE-aligned forma
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/mashrurahmed01/QuickBite-App---PRD-Analysis-Test-Design-Portfolio.git
+   git clone https://github.com/mashrurahmed01/QuickBite-App-PRD-Analysis-and-Test-Design-Portfolio.git
    
    ```
 
